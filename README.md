@@ -2,7 +2,7 @@
 
 
 
-### 🤝 Connect with me: <a href="http://www.linkedin.com/in/ansh-tyagi-9464a123b"><img src="https://raw.githubusercontent.com/anshtya/anshtya/a0dd58c6649671e486dc1be216356977c03d040a/linkedin.svg?token=AW2TMBYDVRDEKU2KY4JREQLDXLQPS" alt="LinkedIn" width="21px"/></a>
+### 🤝 Connect with me: <a href="http://www.linkedin.com/in/ansh-tyagi-9464a123b"><img src="https://raw.githubusercontent.com/anshtya/anshtya/45bfe70dd08bc8066876225eff5fbbcc83c588a8/linkedin.svg?token=AW2TMBZPLVDZV4BLBS5RH53DXLR2I" alt="LinkedIn" width="21px"/></a>
 
 
 

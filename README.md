@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Ansh 👋</h1>
 
 
-## 🤝 Connect with me: <a href="http://www.linkedin.com/in/ansh-tyagi-9464a123b">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/_ansh_tyagi_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+## 🤝 Connect with me: <a href="http://www.linkedin.com/in/ansh-tyagi-9464a123b">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:tyagiansh486@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://twitter.com/_ansh_tyagi_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 
 ## 🛠 Skills

@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ansh Tyagi
 
-- 🌱 I’m currently learning Android/Kotlin
+- 🌱 I’m currently learning Native Android Development with Kotlin
 - 📫 How to reach me: anshtyagi2425@gmail.com
 
 Skills:
